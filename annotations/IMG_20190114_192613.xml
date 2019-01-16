@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>vision</folder>
+	<filename>IMG_20190114_192613.jpg</filename>
+	<path>/media/david/0EC48AFEC48AE6F5/Users/David Austin/Documents/FRC/2019/vision/IMG_20190114_192613.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vision_target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>976</xmin>
+			<ymin>678</ymin>
+			<xmax>2885</xmax>
+			<ymax>1590</ymax>
+		</bndbox>
+	</object>
+</annotation>
